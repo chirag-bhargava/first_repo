@@ -1,4 +1,11 @@
-fnjsnnadfvvdszdhis is first file in git repo.
-This is the change.
+<<<<<<< HEAD
+This is first file in git repo.
+
+
+=======
+This is first file in git repo.
+
+
+>>>>>>> track
 This is the file to change first.
 
